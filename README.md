@@ -25,3 +25,7 @@ node app.js
 - EJS
 - ExpressJs
 - MongoDB
+
+### Screenshots
+
+![Todolist](https://github.com/poornesh-chenna/Todo-list/blob/master/screenshots/todolistUI.png)
